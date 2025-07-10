@@ -8,7 +8,7 @@
 
 👱‍♀️ **Desarrolladora de Aplicaciones Web**  
 💻 Apasionada por el diseño limpio, el código bien hecho y las buenas prácticas  
-📚 En constante formación. Actualmente especializandome en **JAVA para desarrollo de Backend**  
+📚 En constante formación. Actualmente especializandome en **Desarrollo Full-Stack**  
 🔍 ¡Buscando mi oportunidad profesional en el mundo del desarrollo!
 
 ---
